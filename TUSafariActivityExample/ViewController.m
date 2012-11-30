@@ -11,7 +11,10 @@
 #import "TUSafariActivity.h"
 
 
-@interface ViewController ()
+@interface ViewController () <UIPopoverControllerDelegate>
+{
+	UIPopoverController *_popover;
+}
 
 @end
 
@@ -37,7 +40,16 @@
 	
 	if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
 		[self presentViewController:activityViewController animated:YES completion:nil];
+	} else if (![_popover isPopoverVisible]) {
+		_popover = [[UIPopoverController alloc] initWithContentViewController:activityViewController];
+		_popover.delegate = self;
+		[_popover presentPopoverFromBarButtonItem:sender permittedArrowDirections:UIPopoverArrowDirectionAny animated:YES];
 	}
+}
+
+- (void)popoverControllerDidDismissPopover:(UIPopoverController *)popoverController
+{
+	_popover = nil;
 }
 
 @end
