@@ -41,7 +41,20 @@
 
 - (NSString *)activityTitle
 {
-	return NSLocalizedString(@"Open In Safari", nil);
+	static NSBundle* bundle = nil;
+	if (nil == bundle) {
+		NSString *lang = [[[NSUserDefaults standardUserDefaults]
+			objectForKey:@"AppleLanguages"] objectAtIndex:0];
+		NSString *path = [NSString
+			stringWithFormat:@"%@/TUSafariActivity.bundle/%@.lproj",
+			[[NSBundle mainBundle] resourcePath], lang];
+		bundle = [NSBundle bundleWithPath:path];
+		// If not found, load the main bundle to have no nil localized strings.
+		if (!bundle)
+			bundle = [NSBundle mainBundle];
+	}
+	NSString *key = @"Open in Safari";
+	return [bundle localizedStringForKey:key value:key table:nil];
 }
 
 - (UIImage *)activityImage
