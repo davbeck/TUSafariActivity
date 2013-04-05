@@ -67,6 +67,9 @@
 		11DC66FC166966B400C3FF37 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		11DC66FE166966B400C3FF37 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		11DC66FF166966B400C3FF37 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D041AD0F170A3DD300B27F03 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		D041AD10170A3DDA00B27F03 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		D09E77AA1709D5A4007AC0B4 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +206,9 @@
 				sv,
 				vi,
 				zh_CN,
+				fi,
+				pl,
+				pt,
 			);
 			mainGroup = 11DC66D1166966B400C3FF37;
 			productRefGroup = 11DC66DD166966B400C3FF37 /* Products */;
@@ -269,6 +275,9 @@
 				111294171679185000DFB8A2 /* sv */,
 				1112941A1679185000DFB8A2 /* vi */,
 				1112941B1679185000DFB8A2 /* zh_CN */,
+				D09E77AA1709D5A4007AC0B4 /* fi */,
+				D041AD0F170A3DD300B27F03 /* pl */,
+				D041AD10170A3DDA00B27F03 /* pt */,
 			);
 			name = TUSafariActivity.strings;
 			sourceTree = "<group>";
