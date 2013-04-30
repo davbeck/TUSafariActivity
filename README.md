@@ -11,6 +11,12 @@
 
 ## Installation
 
+### CocoaPods
+
+    pod 'TUSafariActivity'
+
+### Manually
+
 Add the `TUSafariActivity` subfolder to your project. There are no required libraries other than `UIKit`.
 
 ## Usage
