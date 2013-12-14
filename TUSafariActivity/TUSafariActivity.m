@@ -46,6 +46,9 @@
 
 - (UIImage *)activityImage
 {
+    if (SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(@"7.0")) {
+        return [UIImage imageNamed:@"Safari7"];
+    }
 	return [UIImage imageNamed:@"Safari"];
 }
 
