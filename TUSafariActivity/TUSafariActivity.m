@@ -47,7 +47,7 @@
 - (UIImage *)activityImage
 {
     NSString *imageName = (NSFoundationVersionNumber > NSFoundationVersionNumber_iOS_6_1) ? @"Safari-ios7" : @"Safari";
-	return [UIImage imageNamed:imageName];
+	return [UIImage imageNamed:[NSString stringWithFormat:@"TUSafariActivity.bundle/%@", imageName]];
 }
 
 - (BOOL)canPerformWithActivityItems:(NSArray *)activityItems
