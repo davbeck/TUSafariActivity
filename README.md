@@ -2,23 +2,17 @@
 
 `TUSafariActivity` is a `UIActivity` subclass that provides an "Open In Safari" action to a `UIActivityViewController`.
 
-![TUSafariActivity screenshot](http://f.cl.ly/items/1M0O380i110g3K1F3f2m/Screenshot%202012.11.30%2015.02.16.png "TUSafariActivity screenshot")
+![TUSafariActivity screenshot](http://f.cl.ly/items/3e3W360A0f0v0Z392u0W/iOS%20Simulator%20Screen%20Shot%20Oct%204,%202014,%2011.54.20%20AM.png "TUSafariActivity screenshot")
 
 ## Requirements
 
-- As `UIActivity` is iOS 6 only, so is the subclass.
-- This project uses ARC. If you want to use it in a non ARC project, you must add the `-fobjc-arc` compiler flag to TUSafariActivity.m in Target Settings > Build Phases > Compile Sources.
+- iOS 8.
 
 ## Installation
 
 ### CocoaPods
 
-    pod 'TUSafariActivity'
-
-### Manually
-
-Add the `TUSafariActivity` subfolder to your project. There are no required libraries other than `UIKit`.
-
+    pod 'TUSafariActivity', '~> 1.0.1'
 ## Usage
 
 *(See example Xcode project)*
