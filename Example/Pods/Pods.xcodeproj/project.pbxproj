@@ -1,2283 +1,916 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>0007B124FA20E19E5C6BE90A</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>B36087A6ABCF5CCBF8AE1155</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>EDE68D0693A830E83D0B0023</string>
-			<key>remoteInfo</key>
-			<string>TUSafariActivity</string>
-		</dict>
-		<key>02289BB5ED9DDFC68C52AA41</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D4A66E6D9CB42701E6EA9B7A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>038D65908EF21B8B4048B238</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>FB3F571AFA5FA461C3606676</string>
-			<key>buildPhases</key>
-			<array>
-				<string>8571F8988B2F182404423724</string>
-				<string>7D889D886F624DD9F534A0C6</string>
-				<string>E9AEBA7FA7FFA92165D7DFC5</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>568F469D037925B88DBAC28D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-Tests-TUSafariActivity</string>
-			<key>productName</key>
-			<string>Pods-Tests-TUSafariActivity</string>
-			<key>productReference</key>
-			<string>69BDD9FE86748B1D5170E609</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>0427937C9E258B3FC07A7C95</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3C5A953D3B9E857A7BE78744</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0722815DB0C90EFA85E463DF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>0D10B30209EB9A404C6113A7</string>
-				<string>07EA5285F61FE53A69CDB11B</string>
-				<string>49ED4481B6DE0052BD8FED04</string>
-				<string>D800EF3D35DDAE8F5E6255AA</string>
-				<string>8B3D5E12AC5729C32C1594C4</string>
-				<string>088CC2C13D24A3A63236C3D2</string>
-				<string>EFA53E430160543838212F02</string>
-				<string>2AD25A5D8C803A89590139C6</string>
-				<string>B780C186964C14AAF97287DF</string>
-				<string>12195B9988ACD31B4DA2FF9B</string>
-				<string>259149C25C0264E021A29F0C</string>
-				<string>B6AB1F4065DDEA07B33F5081</string>
-				<string>C44AB224EFB023E12048C219</string>
-				<string>24B0A45FA920EEE388D3C286</string>
-				<string>8312644B4C97B40BAB40A323</string>
-				<string>4D5A6E79CE12264DC6BFE7A2</string>
-				<string>D7A85E6825F594DFFB7710A0</string>
-				<string>72694B6F6D9154DC51D1EE6C</string>
-				<string>7CE8CCD669702B4C85C44B1D</string>
-				<string>3944D0153568631736A7C6FA</string>
-				<string>A420C3BE2C6A246D71B1E594</string>
-				<string>E5B7865FE05388423A215B55</string>
-				<string>D6C9023D88592C446DED00E8</string>
-				<string>61406BFB88747198CE4D0A69</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>07A944C2E044AC97369FA793</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8B3D5E12AC5729C32C1594C4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>07EA5285F61FE53A69CDB11B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>de.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/de.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>088CC2C13D24A3A63236C3D2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>fi.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/fi.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>09721ECCF411CF170166FD69</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E5B7865FE05388423A215B55</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0C581864A069D5D8E0DE73CE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Tests-TUSafariActivity-Private.xcconfig</string>
-			<key>path</key>
-			<string>../Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0D03CC96CB8A289B2C945A82</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0D10B30209EB9A404C6113A7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>cs.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/cs.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0EC28D0E4F7CB0336062F70E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>12195B9988ACD31B4DA2FF9B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>109247DA21CB8002B54ABA4F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2AD25A5D8C803A89590139C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>10C6DA8D1F3EF91B293D56C8</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>252CC083A055B97E021FE10B</string>
-				<string>D1A47C6C6DD4320C913475BD</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>112DE7B5D95B24F196B74E82</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>0C581864A069D5D8E0DE73CE</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-prefix.pch</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>12195B9988ACD31B4DA2FF9B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ko.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/ko.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>14649106775031F5E6AC426B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EFA53E430160543838212F02</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>18D91E8418A99E111DE663D1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-Tests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1CE1636FB24063C882E3D686</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3944D0153568631736A7C6FA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1FC1C86DAB8BFD504322224E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>208E3C978A1AC1D47BDE14A2</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-Tests.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>22426FECC2DEF8B6BC4CF799</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D4A66E6D9CB42701E6EA9B7A</string>
-				<string>E5127832B8595328C6E73E9A</string>
-				<string>0722815DB0C90EFA85E463DF</string>
-				<string>2C01AE173022406818C9E779</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>TUSafariActivity</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>24B0A45FA920EEE388D3C286</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>pt.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/pt.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>24E31FDD526A30A8B22D12DF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>252CC083A055B97E021FE10B</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>NO</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>259149C25C0264E021A29F0C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>nl.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/nl.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>25DB2A8E0FD4809B95ED818D</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>DFB8ED55119842B0F8924EA1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>28BB0649E444FE72ABA82399</key>
-		<dict>
-			<key>fileRef</key>
-			<string>72694B6F6D9154DC51D1EE6C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2A5F572297824D44CB9E6098</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>918701114FC11D114E05E838</string>
-				<string>4BBEC4639533DF0C88E22400</string>
-				<string>3120AD6E73A4E8C6053266AD</string>
-				<string>768A40F17543FDCD3A766843</string>
-				<string>07A944C2E044AC97369FA793</string>
-				<string>C0F296C171A13242755285E6</string>
-				<string>14649106775031F5E6AC426B</string>
-				<string>109247DA21CB8002B54ABA4F</string>
-				<string>2D3663845E0BAF654BADDE66</string>
-				<string>0EC28D0E4F7CB0336062F70E</string>
-				<string>76B941006260C6A0FECCD214</string>
-				<string>BDA0018A60DAB0EDBAB06199</string>
-				<string>E8E3ECE6CC5ADFA9EF5FA547</string>
-				<string>79246C1B3F64F595CF4C6F3E</string>
-				<string>A9351E3196A04EC61B17CFEE</string>
-				<string>FAB6CA28279227D1E94824EA</string>
-				<string>4A3F67EC26D2BE4C574F37FF</string>
-				<string>28BB0649E444FE72ABA82399</string>
-				<string>EF52C927EB21B6E5D2465028</string>
-				<string>1CE1636FB24063C882E3D686</string>
-				<string>B4630B994351E2E5920B71E7</string>
-				<string>09721ECCF411CF170166FD69</string>
-				<string>4C17AA5F64E6BA135C90A271</string>
-				<string>FF52A272CED3FBAACE2E28A1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2AD25A5D8C803A89590139C6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>it.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/it.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2BFA89C9BCC84F0080B80A64</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2C01AE173022406818C9E779</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7FFE7B02FBF4AB203B1B2E70</string>
-				<string>D93C61F29079852AB580625D</string>
-				<string>EAAED47DB66294DBA3BDDF3B</string>
-				<string>B62096E8E8B031083345E6EF</string>
-				<string>B430849ABC6E526C1D694CD8</string>
-				<string>0C581864A069D5D8E0DE73CE</string>
-				<string>EB18CF8CB2D2FC61324FBF93</string>
-				<string>EC0992DCD144A51F05D01919</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/Pods-TUSafariActivity-TUSafariActivity</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2D3663845E0BAF654BADDE66</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B780C186964C14AAF97287DF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2E2247545DFECFE849F2FF7A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3D26A5D2BF7BDF0BAD128ADB</string>
-				<string>A078D3EDC545A68F98D62EB7</string>
-				<string>3377CEE5B147BEB91BBE74AE</string>
-				<string>811A0456A7E39D2C4C0092FC</string>
-				<string>0D03CC96CB8A289B2C945A82</string>
-				<string>85AC1ABD9A09CA82366C268F</string>
-				<string>9F514B762F181DEDA81D7FFE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-TUSafariActivity</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-TUSafariActivity</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3120AD6E73A4E8C6053266AD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>49ED4481B6DE0052BD8FED04</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3377CEE5B147BEB91BBE74AE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>34E6342949CC345146A5FBA8</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>TUSafariActivity.bundle</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>3944D0153568631736A7C6FA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>safari~iPad@2x.png</string>
-			<key>path</key>
-			<string>Pod/Assets/safari~iPad@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3C5A953D3B9E857A7BE78744</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>3D26A5D2BF7BDF0BAD128ADB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>40A55D79E72D1E517A2BCC5F</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>64D63F129C2DB31F15D06BD7</string>
-				<string>80322898CB143F3F3C813090</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>49ED4481B6DE0052BD8FED04</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>en.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/en.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4A3F67EC26D2BE4C574F37FF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D7A85E6825F594DFFB7710A0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4BBEC4639533DF0C88E22400</key>
-		<dict>
-			<key>fileRef</key>
-			<string>07EA5285F61FE53A69CDB11B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4C17AA5F64E6BA135C90A271</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D6C9023D88592C446DED00E8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4D5A6E79CE12264DC6BFE7A2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>safari.png</string>
-			<key>path</key>
-			<string>Pod/Assets/safari.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4DFF67189F4BBD8AD1AD0CA7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3C5A953D3B9E857A7BE78744</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5465DECBF0C4BFF7C1CB6F25</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>F13FF20F93346049E3756DAE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>568F469D037925B88DBAC28D</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>EDE68D0693A830E83D0B0023</string>
-			<key>targetProxy</key>
-			<string>D64A81242922BF455A5C7E2E</string>
-		</dict>
-		<key>5B23EEEE4C8D7D67702D9683</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>B36087A6ABCF5CCBF8AE1155</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>038D65908EF21B8B4048B238</string>
-			<key>remoteInfo</key>
-			<string>Pods-Tests-TUSafariActivity</string>
-		</dict>
-		<key>5C3F9130C4F8D2612155481F</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>40A55D79E72D1E517A2BCC5F</string>
-			<key>buildPhases</key>
-			<array>
-				<string>B13BCDA38B651BBE2FEDF3F2</string>
-				<string>5465DECBF0C4BFF7C1CB6F25</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>E048506CE184E97149F06D7D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-TUSafariActivity</string>
-			<key>productName</key>
-			<string>Pods-TUSafariActivity</string>
-			<key>productReference</key>
-			<string>FBCC8A07B621204770F98F35</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>61406BFB88747198CE4D0A69</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>zh_CN.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/zh_CN.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6307633017C0902CB96410A4</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>78E052C7647361C65FF78789</string>
-			<key>buildPhases</key>
-			<array>
-				<string>E23BE175C55A5E86F1AD66C4</string>
-				<string>D2304AAAD2CCAB6C55F72AA6</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>A849FD3DE9295A1C9B1FC1A3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-Tests</string>
-			<key>productName</key>
-			<string>Pods-Tests</string>
-			<key>productReference</key>
-			<string>208E3C978A1AC1D47BDE14A2</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>64781AC4803686617A18AFEE</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-TUSafariActivity-TUSafariActivity.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>64D63F129C2DB31F15D06BD7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>85AC1ABD9A09CA82366C268F</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>69BDD9FE86748B1D5170E609</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-Tests-TUSafariActivity.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>6B8ACC9ABF8B749378FDACDF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E5127832B8595328C6E73E9A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-fobjc-arc -w -Xanalyzer -analyzer-disable-checker -Xanalyzer deadcode</string>
-			</dict>
-		</dict>
-		<key>6F58EDAD3576F4D2455DBE2C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-Tests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>72694B6F6D9154DC51D1EE6C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>safari@3x.png</string>
-			<key>path</key>
-			<string>Pod/Assets/safari@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>768A40F17543FDCD3A766843</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D800EF3D35DDAE8F5E6255AA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>76B941006260C6A0FECCD214</key>
-		<dict>
-			<key>fileRef</key>
-			<string>259149C25C0264E021A29F0C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>78E052C7647361C65FF78789</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>A6C43F4BDE05F5F43130E06D</string>
-				<string>A7C131C571FA2778ADB1C99F</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>79246C1B3F64F595CF4C6F3E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>24B0A45FA920EEE388D3C286</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7B75F979D7787530390972E3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>02289BB5ED9DDFC68C52AA41</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7CE8CCD669702B4C85C44B1D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>safari~iPad.png</string>
-			<key>path</key>
-			<string>Pod/Assets/safari~iPad.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7D889D886F624DD9F534A0C6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>0427937C9E258B3FC07A7C95</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7E200488D8EEA63729F3DB00</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>B36087A6ABCF5CCBF8AE1155</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>80483C4C1BC0DA35EF6811CF</string>
-			<key>remoteInfo</key>
-			<string>Pods-TUSafariActivity-TUSafariActivity</string>
-		</dict>
-		<key>7FA53EF190FA241E21005EA5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>EDE68D0693A830E83D0B0023</string>
-			<key>targetProxy</key>
-			<string>0007B124FA20E19E5C6BE90A</string>
-		</dict>
-		<key>7FFE7B02FBF4AB203B1B2E70</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-TUSafariActivity.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>80322898CB143F3F3C813090</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>9F514B762F181DEDA81D7FFE</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>80483C4C1BC0DA35EF6811CF</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>886E2C29489AE08C48C04D61</string>
-			<key>buildPhases</key>
-			<array>
-				<string>A1F1B2A44562FD3B5B2BAA1A</string>
-				<string>25DB2A8E0FD4809B95ED818D</string>
-				<string>7B75F979D7787530390972E3</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>7FA53EF190FA241E21005EA5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-TUSafariActivity-TUSafariActivity</string>
-			<key>productName</key>
-			<string>Pods-TUSafariActivity-TUSafariActivity</string>
-			<key>productReference</key>
-			<string>64781AC4803686617A18AFEE</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>811A0456A7E39D2C4C0092FC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-environment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8312644B4C97B40BAB40A323</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ru.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/ru.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8571F8988B2F182404423724</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E2492F03E31F27699C71068E</string>
-				<string>6B8ACC9ABF8B749378FDACDF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>85AC1ABD9A09CA82366C268F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8675E40AA25A94270D2E9014</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2E2247545DFECFE849F2FF7A</string>
-				<string>ECDB2BCB59CCC875B63E11A0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>86B0119CF99A9BBE945830E8</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>886E2C29489AE08C48C04D61</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>AD7B5E8A4386A603E3F8B3C7</string>
-				<string>CA8340712E66C36B3B1FD356</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>8B3D5E12AC5729C32C1594C4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>eu.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/eu.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>918701114FC11D114E05E838</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0D10B30209EB9A404C6113A7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>92F36FCF2A43BD8CB0A97980</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>FA41628D5ED515907BFECCDB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>966F66CAA2BC522657895047</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>994CB78BE38BA672DB131BC1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E5127832B8595328C6E73E9A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-fobjc-arc -w -Xanalyzer -analyzer-disable-checker -Xanalyzer deadcode</string>
-			</dict>
-		</dict>
-		<key>9F514B762F181DEDA81D7FFE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9FDA32A844265B7FE88DC542</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-Tests-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A078D3EDC545A68F98D62EB7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A1015028FA764EB42F173014</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9FDA32A844265B7FE88DC542</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A1F1B2A44562FD3B5B2BAA1A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>F893629FC5CB2A2615133482</string>
-				<string>994CB78BE38BA672DB131BC1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>A420C3BE2C6A246D71B1E594</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>sk.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/sk.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A6C43F4BDE05F5F43130E06D</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>6F58EDAD3576F4D2455DBE2C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>A7C131C571FA2778ADB1C99F</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>18D91E8418A99E111DE663D1</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>A849FD3DE9295A1C9B1FC1A3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>038D65908EF21B8B4048B238</string>
-			<key>targetProxy</key>
-			<string>5B23EEEE4C8D7D67702D9683</string>
-		</dict>
-		<key>A9351E3196A04EC61B17CFEE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8312644B4C97B40BAB40A323</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A976A52A3E2AC6B2F44756E2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-Tests-environment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ACA199FAE0E3D7531C74F65F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D4A66E6D9CB42701E6EA9B7A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>AD7B5E8A4386A603E3F8B3C7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>D93C61F29079852AB580625D</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-TUSafariActivity-TUSafariActivity/Pods-TUSafariActivity-TUSafariActivity-prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>B13BCDA38B651BBE2FEDF3F2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>DFD29B2AA85B3F811DB29DEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B36087A6ABCF5CCBF8AE1155</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0510</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>10C6DA8D1F3EF91B293D56C8</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>CCD292AEB000DD530B00BBB8</string>
-			<key>productRefGroup</key>
-			<string>E89D32C669FF547FF286DBFD</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>5C3F9130C4F8D2612155481F</string>
-				<string>80483C4C1BC0DA35EF6811CF</string>
-				<string>6307633017C0902CB96410A4</string>
-				<string>038D65908EF21B8B4048B238</string>
-				<string>EDE68D0693A830E83D0B0023</string>
-			</array>
-		</dict>
-		<key>B430849ABC6E526C1D694CD8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Tests-TUSafariActivity.xcconfig</string>
-			<key>path</key>
-			<string>../Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B4630B994351E2E5920B71E7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A420C3BE2C6A246D71B1E594</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B4D38287F60C832511F46AE4</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>22426FECC2DEF8B6BC4CF799</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B62096E8E8B031083345E6EF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-TUSafariActivity-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B6AB1F4065DDEA07B33F5081</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>no.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/no.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B780C186964C14AAF97287DF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ja.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/ja.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BDA0018A60DAB0EDBAB06199</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B6AB1F4065DDEA07B33F5081</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C0F296C171A13242755285E6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>088CC2C13D24A3A63236C3D2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C44AB224EFB023E12048C219</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>pl.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/pl.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CA8340712E66C36B3B1FD356</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>D93C61F29079852AB580625D</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-TUSafariActivity-TUSafariActivity/Pods-TUSafariActivity-TUSafariActivity-prefix.pch</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>CCD292AEB000DD530B00BBB8</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>24E31FDD526A30A8B22D12DF</string>
-				<string>B4D38287F60C832511F46AE4</string>
-				<string>92F36FCF2A43BD8CB0A97980</string>
-				<string>E89D32C669FF547FF286DBFD</string>
-				<string>8675E40AA25A94270D2E9014</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CF09796976D019AE24ED6F89</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>E6EEB68D9EDE37CCCF77896F</string>
-				<string>966F66CAA2BC522657895047</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>D1A47C6C6DD4320C913475BD</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>NO</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>D2304AAAD2CCAB6C55F72AA6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>4DFF67189F4BBD8AD1AD0CA7</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>D4A66E6D9CB42701E6EA9B7A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TUSafariActivity.h</string>
-			<key>path</key>
-			<string>Pod/Classes/TUSafariActivity.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D64A81242922BF455A5C7E2E</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>B36087A6ABCF5CCBF8AE1155</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>EDE68D0693A830E83D0B0023</string>
-			<key>remoteInfo</key>
-			<string>TUSafariActivity</string>
-		</dict>
-		<key>D6C9023D88592C446DED00E8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>vi.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/vi.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D7A85E6825F594DFFB7710A0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>safari@2x.png</string>
-			<key>path</key>
-			<string>Pod/Assets/safari@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D800EF3D35DDAE8F5E6255AA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>es.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/es.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D93C61F29079852AB580625D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-TUSafariActivity-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DA58D0442DF1E17408451377</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>0C581864A069D5D8E0DE73CE</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>DFB8ED55119842B0F8924EA1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3C5A953D3B9E857A7BE78744</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DFD29B2AA85B3F811DB29DEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3377CEE5B147BEB91BBE74AE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E048506CE184E97149F06D7D</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>80483C4C1BC0DA35EF6811CF</string>
-			<key>targetProxy</key>
-			<string>7E200488D8EEA63729F3DB00</string>
-		</dict>
-		<key>E23BE175C55A5E86F1AD66C4</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>A1015028FA764EB42F173014</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E2492F03E31F27699C71068E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EB18CF8CB2D2FC61324FBF93</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E5127832B8595328C6E73E9A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TUSafariActivity.m</string>
-			<key>path</key>
-			<string>Pod/Classes/TUSafariActivity.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E5B7865FE05388423A215B55</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>sv.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/sv.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E6EEB68D9EDE37CCCF77896F</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>E89D32C669FF547FF286DBFD</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>34E6342949CC345146A5FBA8</string>
-				<string>FBCC8A07B621204770F98F35</string>
-				<string>64781AC4803686617A18AFEE</string>
-				<string>208E3C978A1AC1D47BDE14A2</string>
-				<string>69BDD9FE86748B1D5170E609</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E8E3ECE6CC5ADFA9EF5FA547</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C44AB224EFB023E12048C219</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E9AEBA7FA7FFA92165D7DFC5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>ACA199FAE0E3D7531C74F65F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>EAAED47DB66294DBA3BDDF3B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-TUSafariActivity-TUSafariActivity-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EB18CF8CB2D2FC61324FBF93</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>Pods-Tests-TUSafariActivity-dummy.m</string>
-			<key>path</key>
-			<string>../Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EC0992DCD144A51F05D01919</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>Pods-Tests-TUSafariActivity-prefix.pch</string>
-			<key>path</key>
-			<string>../Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ECDB2BCB59CCC875B63E11A0</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1FC1C86DAB8BFD504322224E</string>
-				<string>2BFA89C9BCC84F0080B80A64</string>
-				<string>9FDA32A844265B7FE88DC542</string>
-				<string>A976A52A3E2AC6B2F44756E2</string>
-				<string>FC1CE73649B49FBE849B18B5</string>
-				<string>6F58EDAD3576F4D2455DBE2C</string>
-				<string>18D91E8418A99E111DE663D1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-Tests</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-Tests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EDE68D0693A830E83D0B0023</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>CF09796976D019AE24ED6F89</string>
-			<key>buildPhases</key>
-			<array>
-				<string>F6D31137FB0FEAF072DB9FC4</string>
-				<string>86B0119CF99A9BBE945830E8</string>
-				<string>2A5F572297824D44CB9E6098</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>TUSafariActivity</string>
-			<key>productName</key>
-			<string>TUSafariActivity</string>
-			<key>productReference</key>
-			<string>34E6342949CC345146A5FBA8</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle</string>
-		</dict>
-		<key>EF52C927EB21B6E5D2465028</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7CE8CCD669702B4C85C44B1D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EFA53E430160543838212F02</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>fr.lproj</string>
-			<key>path</key>
-			<string>Pod/Assets/fr.lproj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F13FF20F93346049E3756DAE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3C5A953D3B9E857A7BE78744</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F6D31137FB0FEAF072DB9FC4</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>F893629FC5CB2A2615133482</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EAAED47DB66294DBA3BDDF3B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FA41628D5ED515907BFECCDB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3C5A953D3B9E857A7BE78744</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FAB6CA28279227D1E94824EA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4D5A6E79CE12264DC6BFE7A2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FB3F571AFA5FA461C3606676</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>DA58D0442DF1E17408451377</string>
-				<string>112DE7B5D95B24F196B74E82</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>FBCC8A07B621204770F98F35</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-TUSafariActivity.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>FC1CE73649B49FBE849B18B5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-Tests-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FF52A272CED3FBAACE2E28A1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>61406BFB88747198CE4D0A69</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>B36087A6ABCF5CCBF8AE1155</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		02289BB5ED9DDFC68C52AA41 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = D4A66E6D9CB42701E6EA9B7A /* TUSafariActivity.h */; };
+		0427937C9E258B3FC07A7C95 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C5A953D3B9E857A7BE78744 /* Foundation.framework */; };
+		07A944C2E044AC97369FA793 /* eu.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 8B3D5E12AC5729C32C1594C4 /* eu.lproj */; };
+		09721ECCF411CF170166FD69 /* sv.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E5B7865FE05388423A215B55 /* sv.lproj */; };
+		0EC28D0E4F7CB0336062F70E /* ko.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 12195B9988ACD31B4DA2FF9B /* ko.lproj */; };
+		109247DA21CB8002B54ABA4F /* it.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 2AD25A5D8C803A89590139C6 /* it.lproj */; };
+		14649106775031F5E6AC426B /* fr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = EFA53E430160543838212F02 /* fr.lproj */; };
+		2D3663845E0BAF654BADDE66 /* ja.lproj in Resources */ = {isa = PBXBuildFile; fileRef = B780C186964C14AAF97287DF /* ja.lproj */; };
+		3120AD6E73A4E8C6053266AD /* en.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 49ED4481B6DE0052BD8FED04 /* en.lproj */; };
+		4BBEC4639533DF0C88E22400 /* de.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 07EA5285F61FE53A69CDB11B /* de.lproj */; };
+		4C17AA5F64E6BA135C90A271 /* vi.lproj in Resources */ = {isa = PBXBuildFile; fileRef = D6C9023D88592C446DED00E8 /* vi.lproj */; };
+		4DFF67189F4BBD8AD1AD0CA7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C5A953D3B9E857A7BE78744 /* Foundation.framework */; };
+		6B8ACC9ABF8B749378FDACDF /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = E5127832B8595328C6E73E9A /* TUSafariActivity.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -w -Xanalyzer -analyzer-disable-checker -Xanalyzer deadcode"; }; };
+		768A40F17543FDCD3A766843 /* es.lproj in Resources */ = {isa = PBXBuildFile; fileRef = D800EF3D35DDAE8F5E6255AA /* es.lproj */; };
+		76B941006260C6A0FECCD214 /* nl.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 259149C25C0264E021A29F0C /* nl.lproj */; };
+		79246C1B3F64F595CF4C6F3E /* pt.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 24B0A45FA920EEE388D3C286 /* pt.lproj */; };
+		918701114FC11D114E05E838 /* cs.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 0D10B30209EB9A404C6113A7 /* cs.lproj */; };
+		994CB78BE38BA672DB131BC1 /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = E5127832B8595328C6E73E9A /* TUSafariActivity.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -w -Xanalyzer -analyzer-disable-checker -Xanalyzer deadcode"; }; };
+		A1015028FA764EB42F173014 /* Pods-Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FDA32A844265B7FE88DC542 /* Pods-Tests-dummy.m */; };
+		A9351E3196A04EC61B17CFEE /* ru.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 8312644B4C97B40BAB40A323 /* ru.lproj */; };
+		ACA199FAE0E3D7531C74F65F /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = D4A66E6D9CB42701E6EA9B7A /* TUSafariActivity.h */; };
+		B4630B994351E2E5920B71E7 /* sk.lproj in Resources */ = {isa = PBXBuildFile; fileRef = A420C3BE2C6A246D71B1E594 /* sk.lproj */; };
+		BDA0018A60DAB0EDBAB06199 /* no.lproj in Resources */ = {isa = PBXBuildFile; fileRef = B6AB1F4065DDEA07B33F5081 /* no.lproj */; };
+		C0F296C171A13242755285E6 /* fi.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 088CC2C13D24A3A63236C3D2 /* fi.lproj */; };
+		DFB8ED55119842B0F8924EA1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C5A953D3B9E857A7BE78744 /* Foundation.framework */; };
+		DFD29B2AA85B3F811DB29DEF /* Pods-TUSafariActivity-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3377CEE5B147BEB91BBE74AE /* Pods-TUSafariActivity-dummy.m */; };
+		E2492F03E31F27699C71068E /* Pods-Tests-TUSafariActivity-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EB18CF8CB2D2FC61324FBF93 /* Pods-Tests-TUSafariActivity-dummy.m */; };
+		E8E3ECE6CC5ADFA9EF5FA547 /* pl.lproj in Resources */ = {isa = PBXBuildFile; fileRef = C44AB224EFB023E12048C219 /* pl.lproj */; };
+		F13FF20F93346049E3756DAE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C5A953D3B9E857A7BE78744 /* Foundation.framework */; };
+		F893629FC5CB2A2615133482 /* Pods-TUSafariActivity-TUSafariActivity-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EAAED47DB66294DBA3BDDF3B /* Pods-TUSafariActivity-TUSafariActivity-dummy.m */; };
+		FF52A272CED3FBAACE2E28A1 /* zh_CN.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 61406BFB88747198CE4D0A69 /* zh_CN.lproj */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0007B124FA20E19E5C6BE90A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B36087A6ABCF5CCBF8AE1155 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EDE68D0693A830E83D0B0023;
+			remoteInfo = TUSafariActivity;
+		};
+		5B23EEEE4C8D7D67702D9683 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B36087A6ABCF5CCBF8AE1155 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 038D65908EF21B8B4048B238;
+			remoteInfo = "Pods-Tests-TUSafariActivity";
+		};
+		7E200488D8EEA63729F3DB00 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B36087A6ABCF5CCBF8AE1155 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 80483C4C1BC0DA35EF6811CF;
+			remoteInfo = "Pods-TUSafariActivity-TUSafariActivity";
+		};
+		D64A81242922BF455A5C7E2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B36087A6ABCF5CCBF8AE1155 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EDE68D0693A830E83D0B0023;
+			remoteInfo = TUSafariActivity;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		07EA5285F61FE53A69CDB11B /* de.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = de.lproj; path = Pod/Assets/de.lproj; sourceTree = "<group>"; };
+		088CC2C13D24A3A63236C3D2 /* fi.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = fi.lproj; path = Pod/Assets/fi.lproj; sourceTree = "<group>"; };
+		0C581864A069D5D8E0DE73CE /* Pods-Tests-TUSafariActivity-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-TUSafariActivity-Private.xcconfig"; path = "../Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-Private.xcconfig"; sourceTree = "<group>"; };
+		0D03CC96CB8A289B2C945A82 /* Pods-TUSafariActivity-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TUSafariActivity-resources.sh"; sourceTree = "<group>"; };
+		0D10B30209EB9A404C6113A7 /* cs.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = cs.lproj; path = Pod/Assets/cs.lproj; sourceTree = "<group>"; };
+		12195B9988ACD31B4DA2FF9B /* ko.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = ko.lproj; path = Pod/Assets/ko.lproj; sourceTree = "<group>"; };
+		18D91E8418A99E111DE663D1 /* Pods-Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.release.xcconfig"; sourceTree = "<group>"; };
+		1FC1C86DAB8BFD504322224E /* Pods-Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		208E3C978A1AC1D47BDE14A2 /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24B0A45FA920EEE388D3C286 /* pt.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = pt.lproj; path = Pod/Assets/pt.lproj; sourceTree = "<group>"; };
+		24E31FDD526A30A8B22D12DF /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		259149C25C0264E021A29F0C /* nl.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = nl.lproj; path = Pod/Assets/nl.lproj; sourceTree = "<group>"; };
+		2AD25A5D8C803A89590139C6 /* it.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = it.lproj; path = Pod/Assets/it.lproj; sourceTree = "<group>"; };
+		2BFA89C9BCC84F0080B80A64 /* Pods-Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		3377CEE5B147BEB91BBE74AE /* Pods-TUSafariActivity-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TUSafariActivity-dummy.m"; sourceTree = "<group>"; };
+		34E6342949CC345146A5FBA8 /* TUSafariActivity.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TUSafariActivity.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C5A953D3B9E857A7BE78744 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		3D26A5D2BF7BDF0BAD128ADB /* Pods-TUSafariActivity-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TUSafariActivity-acknowledgements.markdown"; sourceTree = "<group>"; };
+		49ED4481B6DE0052BD8FED04 /* en.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = en.lproj; path = Pod/Assets/en.lproj; sourceTree = "<group>"; };
+		6033A0461A5DD43B0096DE8D /* Safari_iOS8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Safari_iOS8.png; path = Pod/Assets/Safari_iOS8.png; sourceTree = "<group>"; };
+		6033A0471A5DD43B0096DE8D /* Safari_iOS8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Safari_iOS8@2x.png"; path = "Pod/Assets/Safari_iOS8@2x.png"; sourceTree = "<group>"; };
+		6033A0481A5DD43B0096DE8D /* Safari_iOS8@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Safari_iOS8@2x~ipad.png"; path = "Pod/Assets/Safari_iOS8@2x~ipad.png"; sourceTree = "<group>"; };
+		6033A0491A5DD43B0096DE8D /* Safari_iOS8@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Safari_iOS8@3x.png"; path = "Pod/Assets/Safari_iOS8@3x.png"; sourceTree = "<group>"; };
+		6033A04A1A5DD43B0096DE8D /* Safari_iOS8@3x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Safari_iOS8@3x~ipad.png"; path = "Pod/Assets/Safari_iOS8@3x~ipad.png"; sourceTree = "<group>"; };
+		6033A04B1A5DD43B0096DE8D /* Safari_iOS8~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Safari_iOS8~ipad.png"; path = "Pod/Assets/Safari_iOS8~ipad.png"; sourceTree = "<group>"; };
+		61406BFB88747198CE4D0A69 /* zh_CN.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = zh_CN.lproj; path = Pod/Assets/zh_CN.lproj; sourceTree = "<group>"; };
+		64781AC4803686617A18AFEE /* libPods-TUSafariActivity-TUSafariActivity.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TUSafariActivity-TUSafariActivity.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		69BDD9FE86748B1D5170E609 /* libPods-Tests-TUSafariActivity.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests-TUSafariActivity.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F58EDAD3576F4D2455DBE2C /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		7FFE7B02FBF4AB203B1B2E70 /* Pods-TUSafariActivity-TUSafariActivity.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TUSafariActivity-TUSafariActivity.xcconfig"; sourceTree = "<group>"; };
+		811A0456A7E39D2C4C0092FC /* Pods-TUSafariActivity-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TUSafariActivity-environment.h"; sourceTree = "<group>"; };
+		8312644B4C97B40BAB40A323 /* ru.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = ru.lproj; path = Pod/Assets/ru.lproj; sourceTree = "<group>"; };
+		85AC1ABD9A09CA82366C268F /* Pods-TUSafariActivity.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TUSafariActivity.debug.xcconfig"; sourceTree = "<group>"; };
+		8B3D5E12AC5729C32C1594C4 /* eu.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = eu.lproj; path = Pod/Assets/eu.lproj; sourceTree = "<group>"; };
+		9F514B762F181DEDA81D7FFE /* Pods-TUSafariActivity.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TUSafariActivity.release.xcconfig"; sourceTree = "<group>"; };
+		9FDA32A844265B7FE88DC542 /* Pods-Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tests-dummy.m"; sourceTree = "<group>"; };
+		A078D3EDC545A68F98D62EB7 /* Pods-TUSafariActivity-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TUSafariActivity-acknowledgements.plist"; sourceTree = "<group>"; };
+		A420C3BE2C6A246D71B1E594 /* sk.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = sk.lproj; path = Pod/Assets/sk.lproj; sourceTree = "<group>"; };
+		A976A52A3E2AC6B2F44756E2 /* Pods-Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tests-environment.h"; sourceTree = "<group>"; };
+		B430849ABC6E526C1D694CD8 /* Pods-Tests-TUSafariActivity.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-TUSafariActivity.xcconfig"; path = "../Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity.xcconfig"; sourceTree = "<group>"; };
+		B62096E8E8B031083345E6EF /* Pods-TUSafariActivity-TUSafariActivity-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TUSafariActivity-TUSafariActivity-prefix.pch"; sourceTree = "<group>"; };
+		B6AB1F4065DDEA07B33F5081 /* no.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = no.lproj; path = Pod/Assets/no.lproj; sourceTree = "<group>"; };
+		B780C186964C14AAF97287DF /* ja.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = ja.lproj; path = Pod/Assets/ja.lproj; sourceTree = "<group>"; };
+		C44AB224EFB023E12048C219 /* pl.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = pl.lproj; path = Pod/Assets/pl.lproj; sourceTree = "<group>"; };
+		D4A66E6D9CB42701E6EA9B7A /* TUSafariActivity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TUSafariActivity.h; path = Pod/Classes/TUSafariActivity.h; sourceTree = "<group>"; };
+		D6C9023D88592C446DED00E8 /* vi.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = vi.lproj; path = Pod/Assets/vi.lproj; sourceTree = "<group>"; };
+		D800EF3D35DDAE8F5E6255AA /* es.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = es.lproj; path = Pod/Assets/es.lproj; sourceTree = "<group>"; };
+		D93C61F29079852AB580625D /* Pods-TUSafariActivity-TUSafariActivity-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TUSafariActivity-TUSafariActivity-Private.xcconfig"; sourceTree = "<group>"; };
+		E5127832B8595328C6E73E9A /* TUSafariActivity.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TUSafariActivity.m; path = Pod/Classes/TUSafariActivity.m; sourceTree = "<group>"; };
+		E5B7865FE05388423A215B55 /* sv.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = sv.lproj; path = Pod/Assets/sv.lproj; sourceTree = "<group>"; };
+		EAAED47DB66294DBA3BDDF3B /* Pods-TUSafariActivity-TUSafariActivity-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TUSafariActivity-TUSafariActivity-dummy.m"; sourceTree = "<group>"; };
+		EB18CF8CB2D2FC61324FBF93 /* Pods-Tests-TUSafariActivity-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-Tests-TUSafariActivity-dummy.m"; path = "../Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-dummy.m"; sourceTree = "<group>"; };
+		EC0992DCD144A51F05D01919 /* Pods-Tests-TUSafariActivity-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Tests-TUSafariActivity-prefix.pch"; path = "../Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-prefix.pch"; sourceTree = "<group>"; };
+		EFA53E430160543838212F02 /* fr.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = fr.lproj; path = Pod/Assets/fr.lproj; sourceTree = "<group>"; };
+		FBCC8A07B621204770F98F35 /* libPods-TUSafariActivity.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TUSafariActivity.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC1CE73649B49FBE849B18B5 /* Pods-Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Tests-resources.sh"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		25DB2A8E0FD4809B95ED818D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFB8ED55119842B0F8924EA1 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5465DECBF0C4BFF7C1CB6F25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F13FF20F93346049E3756DAE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7D889D886F624DD9F534A0C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0427937C9E258B3FC07A7C95 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		86B0119CF99A9BBE945830E8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D2304AAAD2CCAB6C55F72AA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4DFF67189F4BBD8AD1AD0CA7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0722815DB0C90EFA85E463DF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6033A0461A5DD43B0096DE8D /* Safari_iOS8.png */,
+				6033A0471A5DD43B0096DE8D /* Safari_iOS8@2x.png */,
+				6033A0481A5DD43B0096DE8D /* Safari_iOS8@2x~ipad.png */,
+				6033A0491A5DD43B0096DE8D /* Safari_iOS8@3x.png */,
+				6033A04A1A5DD43B0096DE8D /* Safari_iOS8@3x~ipad.png */,
+				6033A04B1A5DD43B0096DE8D /* Safari_iOS8~ipad.png */,
+				0D10B30209EB9A404C6113A7 /* cs.lproj */,
+				07EA5285F61FE53A69CDB11B /* de.lproj */,
+				49ED4481B6DE0052BD8FED04 /* en.lproj */,
+				D800EF3D35DDAE8F5E6255AA /* es.lproj */,
+				8B3D5E12AC5729C32C1594C4 /* eu.lproj */,
+				088CC2C13D24A3A63236C3D2 /* fi.lproj */,
+				EFA53E430160543838212F02 /* fr.lproj */,
+				2AD25A5D8C803A89590139C6 /* it.lproj */,
+				B780C186964C14AAF97287DF /* ja.lproj */,
+				12195B9988ACD31B4DA2FF9B /* ko.lproj */,
+				259149C25C0264E021A29F0C /* nl.lproj */,
+				B6AB1F4065DDEA07B33F5081 /* no.lproj */,
+				C44AB224EFB023E12048C219 /* pl.lproj */,
+				24B0A45FA920EEE388D3C286 /* pt.lproj */,
+				8312644B4C97B40BAB40A323 /* ru.lproj */,
+				A420C3BE2C6A246D71B1E594 /* sk.lproj */,
+				E5B7865FE05388423A215B55 /* sv.lproj */,
+				D6C9023D88592C446DED00E8 /* vi.lproj */,
+				61406BFB88747198CE4D0A69 /* zh_CN.lproj */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		22426FECC2DEF8B6BC4CF799 /* TUSafariActivity */ = {
+			isa = PBXGroup;
+			children = (
+				D4A66E6D9CB42701E6EA9B7A /* TUSafariActivity.h */,
+				E5127832B8595328C6E73E9A /* TUSafariActivity.m */,
+				0722815DB0C90EFA85E463DF /* Resources */,
+				2C01AE173022406818C9E779 /* Support Files */,
+			);
+			name = TUSafariActivity;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		2C01AE173022406818C9E779 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				7FFE7B02FBF4AB203B1B2E70 /* Pods-TUSafariActivity-TUSafariActivity.xcconfig */,
+				D93C61F29079852AB580625D /* Pods-TUSafariActivity-TUSafariActivity-Private.xcconfig */,
+				EAAED47DB66294DBA3BDDF3B /* Pods-TUSafariActivity-TUSafariActivity-dummy.m */,
+				B62096E8E8B031083345E6EF /* Pods-TUSafariActivity-TUSafariActivity-prefix.pch */,
+				B430849ABC6E526C1D694CD8 /* Pods-Tests-TUSafariActivity.xcconfig */,
+				0C581864A069D5D8E0DE73CE /* Pods-Tests-TUSafariActivity-Private.xcconfig */,
+				EB18CF8CB2D2FC61324FBF93 /* Pods-Tests-TUSafariActivity-dummy.m */,
+				EC0992DCD144A51F05D01919 /* Pods-Tests-TUSafariActivity-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/Pods-TUSafariActivity-TUSafariActivity";
+			sourceTree = "<group>";
+		};
+		2E2247545DFECFE849F2FF7A /* Pods-TUSafariActivity */ = {
+			isa = PBXGroup;
+			children = (
+				3D26A5D2BF7BDF0BAD128ADB /* Pods-TUSafariActivity-acknowledgements.markdown */,
+				A078D3EDC545A68F98D62EB7 /* Pods-TUSafariActivity-acknowledgements.plist */,
+				3377CEE5B147BEB91BBE74AE /* Pods-TUSafariActivity-dummy.m */,
+				811A0456A7E39D2C4C0092FC /* Pods-TUSafariActivity-environment.h */,
+				0D03CC96CB8A289B2C945A82 /* Pods-TUSafariActivity-resources.sh */,
+				85AC1ABD9A09CA82366C268F /* Pods-TUSafariActivity.debug.xcconfig */,
+				9F514B762F181DEDA81D7FFE /* Pods-TUSafariActivity.release.xcconfig */,
+			);
+			name = "Pods-TUSafariActivity";
+			path = "Target Support Files/Pods-TUSafariActivity";
+			sourceTree = "<group>";
+		};
+		8675E40AA25A94270D2E9014 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				2E2247545DFECFE849F2FF7A /* Pods-TUSafariActivity */,
+				ECDB2BCB59CCC875B63E11A0 /* Pods-Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		92F36FCF2A43BD8CB0A97980 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FA41628D5ED515907BFECCDB /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B4D38287F60C832511F46AE4 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				22426FECC2DEF8B6BC4CF799 /* TUSafariActivity */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		CCD292AEB000DD530B00BBB8 = {
+			isa = PBXGroup;
+			children = (
+				24E31FDD526A30A8B22D12DF /* Podfile */,
+				B4D38287F60C832511F46AE4 /* Development Pods */,
+				92F36FCF2A43BD8CB0A97980 /* Frameworks */,
+				E89D32C669FF547FF286DBFD /* Products */,
+				8675E40AA25A94270D2E9014 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		E89D32C669FF547FF286DBFD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				34E6342949CC345146A5FBA8 /* TUSafariActivity.bundle */,
+				FBCC8A07B621204770F98F35 /* libPods-TUSafariActivity.a */,
+				64781AC4803686617A18AFEE /* libPods-TUSafariActivity-TUSafariActivity.a */,
+				208E3C978A1AC1D47BDE14A2 /* libPods-Tests.a */,
+				69BDD9FE86748B1D5170E609 /* libPods-Tests-TUSafariActivity.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ECDB2BCB59CCC875B63E11A0 /* Pods-Tests */ = {
+			isa = PBXGroup;
+			children = (
+				1FC1C86DAB8BFD504322224E /* Pods-Tests-acknowledgements.markdown */,
+				2BFA89C9BCC84F0080B80A64 /* Pods-Tests-acknowledgements.plist */,
+				9FDA32A844265B7FE88DC542 /* Pods-Tests-dummy.m */,
+				A976A52A3E2AC6B2F44756E2 /* Pods-Tests-environment.h */,
+				FC1CE73649B49FBE849B18B5 /* Pods-Tests-resources.sh */,
+				6F58EDAD3576F4D2455DBE2C /* Pods-Tests.debug.xcconfig */,
+				18D91E8418A99E111DE663D1 /* Pods-Tests.release.xcconfig */,
+			);
+			name = "Pods-Tests";
+			path = "Target Support Files/Pods-Tests";
+			sourceTree = "<group>";
+		};
+		FA41628D5ED515907BFECCDB /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3C5A953D3B9E857A7BE78744 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		7B75F979D7787530390972E3 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				02289BB5ED9DDFC68C52AA41 /* TUSafariActivity.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9AEBA7FA7FFA92165D7DFC5 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACA199FAE0E3D7531C74F65F /* TUSafariActivity.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		038D65908EF21B8B4048B238 /* Pods-Tests-TUSafariActivity */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB3F571AFA5FA461C3606676 /* Build configuration list for PBXNativeTarget "Pods-Tests-TUSafariActivity" */;
+			buildPhases = (
+				8571F8988B2F182404423724 /* Sources */,
+				7D889D886F624DD9F534A0C6 /* Frameworks */,
+				E9AEBA7FA7FFA92165D7DFC5 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				568F469D037925B88DBAC28D /* PBXTargetDependency */,
+			);
+			name = "Pods-Tests-TUSafariActivity";
+			productName = "Pods-Tests-TUSafariActivity";
+			productReference = 69BDD9FE86748B1D5170E609 /* libPods-Tests-TUSafariActivity.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		5C3F9130C4F8D2612155481F /* Pods-TUSafariActivity */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 40A55D79E72D1E517A2BCC5F /* Build configuration list for PBXNativeTarget "Pods-TUSafariActivity" */;
+			buildPhases = (
+				B13BCDA38B651BBE2FEDF3F2 /* Sources */,
+				5465DECBF0C4BFF7C1CB6F25 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E048506CE184E97149F06D7D /* PBXTargetDependency */,
+			);
+			name = "Pods-TUSafariActivity";
+			productName = "Pods-TUSafariActivity";
+			productReference = FBCC8A07B621204770F98F35 /* libPods-TUSafariActivity.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		6307633017C0902CB96410A4 /* Pods-Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 78E052C7647361C65FF78789 /* Build configuration list for PBXNativeTarget "Pods-Tests" */;
+			buildPhases = (
+				E23BE175C55A5E86F1AD66C4 /* Sources */,
+				D2304AAAD2CCAB6C55F72AA6 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A849FD3DE9295A1C9B1FC1A3 /* PBXTargetDependency */,
+			);
+			name = "Pods-Tests";
+			productName = "Pods-Tests";
+			productReference = 208E3C978A1AC1D47BDE14A2 /* libPods-Tests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		80483C4C1BC0DA35EF6811CF /* Pods-TUSafariActivity-TUSafariActivity */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 886E2C29489AE08C48C04D61 /* Build configuration list for PBXNativeTarget "Pods-TUSafariActivity-TUSafariActivity" */;
+			buildPhases = (
+				A1F1B2A44562FD3B5B2BAA1A /* Sources */,
+				25DB2A8E0FD4809B95ED818D /* Frameworks */,
+				7B75F979D7787530390972E3 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7FA53EF190FA241E21005EA5 /* PBXTargetDependency */,
+			);
+			name = "Pods-TUSafariActivity-TUSafariActivity";
+			productName = "Pods-TUSafariActivity-TUSafariActivity";
+			productReference = 64781AC4803686617A18AFEE /* libPods-TUSafariActivity-TUSafariActivity.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		EDE68D0693A830E83D0B0023 /* TUSafariActivity */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CF09796976D019AE24ED6F89 /* Build configuration list for PBXNativeTarget "TUSafariActivity" */;
+			buildPhases = (
+				F6D31137FB0FEAF072DB9FC4 /* Sources */,
+				86B0119CF99A9BBE945830E8 /* Frameworks */,
+				2A5F572297824D44CB9E6098 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TUSafariActivity;
+			productName = TUSafariActivity;
+			productReference = 34E6342949CC345146A5FBA8 /* TUSafariActivity.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B36087A6ABCF5CCBF8AE1155 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = 10C6DA8D1F3EF91B293D56C8 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CCD292AEB000DD530B00BBB8;
+			productRefGroup = E89D32C669FF547FF286DBFD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5C3F9130C4F8D2612155481F /* Pods-TUSafariActivity */,
+				80483C4C1BC0DA35EF6811CF /* Pods-TUSafariActivity-TUSafariActivity */,
+				6307633017C0902CB96410A4 /* Pods-Tests */,
+				038D65908EF21B8B4048B238 /* Pods-Tests-TUSafariActivity */,
+				EDE68D0693A830E83D0B0023 /* TUSafariActivity */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2A5F572297824D44CB9E6098 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				918701114FC11D114E05E838 /* cs.lproj in Resources */,
+				4BBEC4639533DF0C88E22400 /* de.lproj in Resources */,
+				3120AD6E73A4E8C6053266AD /* en.lproj in Resources */,
+				768A40F17543FDCD3A766843 /* es.lproj in Resources */,
+				07A944C2E044AC97369FA793 /* eu.lproj in Resources */,
+				C0F296C171A13242755285E6 /* fi.lproj in Resources */,
+				14649106775031F5E6AC426B /* fr.lproj in Resources */,
+				109247DA21CB8002B54ABA4F /* it.lproj in Resources */,
+				2D3663845E0BAF654BADDE66 /* ja.lproj in Resources */,
+				0EC28D0E4F7CB0336062F70E /* ko.lproj in Resources */,
+				76B941006260C6A0FECCD214 /* nl.lproj in Resources */,
+				BDA0018A60DAB0EDBAB06199 /* no.lproj in Resources */,
+				E8E3ECE6CC5ADFA9EF5FA547 /* pl.lproj in Resources */,
+				79246C1B3F64F595CF4C6F3E /* pt.lproj in Resources */,
+				A9351E3196A04EC61B17CFEE /* ru.lproj in Resources */,
+				B4630B994351E2E5920B71E7 /* sk.lproj in Resources */,
+				09721ECCF411CF170166FD69 /* sv.lproj in Resources */,
+				4C17AA5F64E6BA135C90A271 /* vi.lproj in Resources */,
+				FF52A272CED3FBAACE2E28A1 /* zh_CN.lproj in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8571F8988B2F182404423724 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2492F03E31F27699C71068E /* Pods-Tests-TUSafariActivity-dummy.m in Sources */,
+				6B8ACC9ABF8B749378FDACDF /* TUSafariActivity.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A1F1B2A44562FD3B5B2BAA1A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F893629FC5CB2A2615133482 /* Pods-TUSafariActivity-TUSafariActivity-dummy.m in Sources */,
+				994CB78BE38BA672DB131BC1 /* TUSafariActivity.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B13BCDA38B651BBE2FEDF3F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFD29B2AA85B3F811DB29DEF /* Pods-TUSafariActivity-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E23BE175C55A5E86F1AD66C4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1015028FA764EB42F173014 /* Pods-Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6D31137FB0FEAF072DB9FC4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		568F469D037925B88DBAC28D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EDE68D0693A830E83D0B0023 /* TUSafariActivity */;
+			targetProxy = D64A81242922BF455A5C7E2E /* PBXContainerItemProxy */;
+		};
+		7FA53EF190FA241E21005EA5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EDE68D0693A830E83D0B0023 /* TUSafariActivity */;
+			targetProxy = 0007B124FA20E19E5C6BE90A /* PBXContainerItemProxy */;
+		};
+		A849FD3DE9295A1C9B1FC1A3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 038D65908EF21B8B4048B238 /* Pods-Tests-TUSafariActivity */;
+			targetProxy = 5B23EEEE4C8D7D67702D9683 /* PBXContainerItemProxy */;
+		};
+		E048506CE184E97149F06D7D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 80483C4C1BC0DA35EF6811CF /* Pods-TUSafariActivity-TUSafariActivity */;
+			targetProxy = 7E200488D8EEA63729F3DB00 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		112DE7B5D95B24F196B74E82 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C581864A069D5D8E0DE73CE /* Pods-Tests-TUSafariActivity-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-prefix.pch";
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		252CC083A055B97E021FE10B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+		64D63F129C2DB31F15D06BD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 85AC1ABD9A09CA82366C268F /* Pods-TUSafariActivity.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		80322898CB143F3F3C813090 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9F514B762F181DEDA81D7FFE /* Pods-TUSafariActivity.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		966F66CAA2BC522657895047 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		A6C43F4BDE05F5F43130E06D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6F58EDAD3576F4D2455DBE2C /* Pods-Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		A7C131C571FA2778ADB1C99F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 18D91E8418A99E111DE663D1 /* Pods-Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AD7B5E8A4386A603E3F8B3C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D93C61F29079852AB580625D /* Pods-TUSafariActivity-TUSafariActivity-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-TUSafariActivity-TUSafariActivity/Pods-TUSafariActivity-TUSafariActivity-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		CA8340712E66C36B3B1FD356 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D93C61F29079852AB580625D /* Pods-TUSafariActivity-TUSafariActivity-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-TUSafariActivity-TUSafariActivity/Pods-TUSafariActivity-TUSafariActivity-prefix.pch";
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D1A47C6C6DD4320C913475BD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				STRIP_INSTALLED_PRODUCT = NO;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DA58D0442DF1E17408451377 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C581864A069D5D8E0DE73CE /* Pods-Tests-TUSafariActivity-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-TUSafariActivity/Pods-Tests-TUSafariActivity-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		E6EEB68D9EDE37CCCF77896F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		10C6DA8D1F3EF91B293D56C8 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				252CC083A055B97E021FE10B /* Debug */,
+				D1A47C6C6DD4320C913475BD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		40A55D79E72D1E517A2BCC5F /* Build configuration list for PBXNativeTarget "Pods-TUSafariActivity" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64D63F129C2DB31F15D06BD7 /* Debug */,
+				80322898CB143F3F3C813090 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		78E052C7647361C65FF78789 /* Build configuration list for PBXNativeTarget "Pods-Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6C43F4BDE05F5F43130E06D /* Debug */,
+				A7C131C571FA2778ADB1C99F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		886E2C29489AE08C48C04D61 /* Build configuration list for PBXNativeTarget "Pods-TUSafariActivity-TUSafariActivity" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD7B5E8A4386A603E3F8B3C7 /* Debug */,
+				CA8340712E66C36B3B1FD356 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CF09796976D019AE24ED6F89 /* Build configuration list for PBXNativeTarget "TUSafariActivity" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E6EEB68D9EDE37CCCF77896F /* Debug */,
+				966F66CAA2BC522657895047 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB3F571AFA5FA461C3606676 /* Build configuration list for PBXNativeTarget "Pods-Tests-TUSafariActivity" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DA58D0442DF1E17408451377 /* Debug */,
+				112DE7B5D95B24F196B74E82 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B36087A6ABCF5CCBF8AE1155 /* Project object */;
+}
