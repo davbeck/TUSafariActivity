@@ -5,7 +5,7 @@
 ![TUSafariActivity screenshot](http://f.cl.ly/items/3e3W360A0f0v0Z392u0W/iOS%20Simulator%20Screen%20Shot%20Oct%204,%202014,%2011.54.20%20AM.png "TUSafariActivity screenshot")
 
 Updated icon for better matching the iOS 8 style:
-![TUSafariActivity screenshot](http://f.cl.ly/items/380B2a3t0S1T26242K3a/iOS%20Simulator%20Screen%20Shot%2007.01.2015%2022.24.50.png "TUSafariActivity screenshot")
+![TUSafariActivity screenshot](http://f.cl.ly/items/1k2O1v471T120o1g2L34/iOS%20Simulator%20Screen%20Shot%2023.01.2015%2016.50.36.png "TUSafariActivity screenshot")
 
 
 ## Requirements
