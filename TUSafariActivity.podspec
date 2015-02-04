@@ -8,9 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "David Beck" => "code@thinkultimate.com" }
   s.platform     = :ios, '6.0'
   s.source       = { :git => "https://github.com/davbeck/TUSafariActivity.git", :tag => s.version.to_s }
+  s.source_files = 'TUSafariActivity/*.{h,m}'
+  s.resource_bundles = 'TUSafariActivity/TUSafariActivity.bundle'
   s.requires_arc = true
-  s.source_files = 'Pod/Classes'
-  s.resource_bundles = {
-    'TUSafariActivity' => ['Pod/Assets/*']
-  }
 end
