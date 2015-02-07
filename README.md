@@ -4,6 +4,10 @@
 
 ![TUSafariActivity screenshot](http://f.cl.ly/items/3e3W360A0f0v0Z392u0W/iOS%20Simulator%20Screen%20Shot%20Oct%204,%202014,%2011.54.20%20AM.png "TUSafariActivity screenshot")
 
+Updated icon for better matching the iOS 8 style:
+![TUSafariActivity screenshot](http://f.cl.ly/items/1k2O1v471T120o1g2L34/iOS%20Simulator%20Screen%20Shot%2023.01.2015%2016.50.36.png "TUSafariActivity screenshot")
+
+
 ## Requirements
 
 - iOS 8.
@@ -12,7 +16,8 @@
 
 ### CocoaPods
 
-    pod 'TUSafariActivity', '~> 1.0.1'
+    pod 'TUSafariActivity', :git => 'https://github.com/alexander-johmann/TUSafariActivity.git'
+
 ## Usage
 
 *(See example Xcode project)*

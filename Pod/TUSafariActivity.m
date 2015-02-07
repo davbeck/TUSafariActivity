@@ -51,7 +51,7 @@
 
 - (UIImage *)activityImage
 {
-	return [UIImage imageNamed:@"TUSafariActivity.bundle/safari"];
+	return [UIImage imageNamed:@"TUSafariActivity.bundle/Safari_iOS8"];
 }
 
 - (BOOL)canPerformWithActivityItems:(NSArray *)activityItems
