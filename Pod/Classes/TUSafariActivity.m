@@ -51,7 +51,14 @@
 
 - (UIImage *)activityImage
 {
-	return [UIImage imageNamed:@"TUSafariActivity.bundle/safari" inBundle:[NSBundle bundleForClass:self.class] compatibleWithTraitCollection:nil];
+  if([UIImage resolveClassMethod:@selector(imageNamed:inBundle:compatibleWithTraitCollection:)])
+  {
+    return [UIImage imageNamed:@"TUSafariActivity.bundle/safari" inBundle:[NSBundle bundleForClass:self.class] compatibleWithTraitCollection:nil];
+  }
+  else
+  {
+    return [UIImage imageNamed:@"TUSafariActivity.bundle/safari"];
+  }
 }
 
 - (BOOL)canPerformWithActivityItems:(NSArray *)activityItems
