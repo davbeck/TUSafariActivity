@@ -1,5 +1,5 @@
 PODS:
-  - TUSafariActivity (1.0.1)
+  - TUSafariActivity (1.0.3)
 
 DEPENDENCIES:
   - TUSafariActivity (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  TUSafariActivity: bb0ee07158622919558acec1e7b769180878b98e
+  TUSafariActivity: 411ac97fe9d972814847bc8db281ad3e93be0183
 
-COCOAPODS: 0.34.1
+COCOAPODS: 0.36.0
