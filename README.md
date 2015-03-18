@@ -2,7 +2,7 @@
 
 `TUSafariActivity` is a `UIActivity` subclass that provides an "Open In Safari" action to a `UIActivityViewController`.
 
-![TUSafariActivity screenshot](http://f.cl.ly/items/3e3W360A0f0v0Z392u0W/iOS%20Simulator%20Screen%20Shot%20Oct%204,%202014,%2011.54.20%20AM.png "TUSafariActivity screenshot")
+![TUSafariActivity screenshot](http://cl.ly/image/2i0n0H3f2g1X/TUSafariActivity.png "TUSafariActivity screenshot")
 
 ## Requirements
 
@@ -12,7 +12,7 @@
 
 ### CocoaPods
 
-    pod 'TUSafariActivity', '~> 1.0.1'
+    pod 'TUSafariActivity', '~> 1.0'
 ## Usage
 
 *(See example Xcode project)*
