@@ -51,7 +51,12 @@
 
 - (UIImage *)activityImage
 {
-	return [UIImage imageNamed:@"TUSafariActivity.bundle/safari" inBundle:[NSBundle bundleForClass:self.class] compatibleWithTraitCollection:nil];
+    if ([UIImage respondsToSelector:@selector(imageNamed:inBundle:compatibleWithTraitCollection:)]) {
+        return [UIImage imageNamed:@"TUSafariActivity.bundle/safari" inBundle:[NSBundle bundleForClass:self.class] compatibleWithTraitCollection:nil];
+    } else {
+        // because pre iOS 8 doesn't allow embeded frameworks, our bundle will always be the main bundle
+        return [UIImage imageNamed:@"TUSafariActivity.bundle/safari"];
+    }
 }
 
 - (BOOL)canPerformWithActivityItems:(NSArray *)activityItems
