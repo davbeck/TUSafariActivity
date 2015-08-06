@@ -81,9 +81,13 @@
 
 - (void)performActivity
 {
-	BOOL completed = [[UIApplication sharedApplication] openURL:_URL];
-	
-	[self activityDidFinish:completed];
+    __weak typeof(self) weakSelf = self;
+    dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_BACKGROUND, 0), ^{
+        BOOL completed = [[UIApplication sharedApplication] openURL:_URL];
+
+        __strong typeof(weakSelf) strongSelf = weakSelf;
+        [strongSelf activityDidFinish:completed];
+    });
 }
 
 @end
