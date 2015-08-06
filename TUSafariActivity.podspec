@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "TUSafariActivity"
-  s.version          = "1.0.4"
+  s.version          = "1.0.5"
   s.summary          = "A UIActivity subclass that opens URLs in Safari."
   s.homepage     = "https://github.com/davbeck/TUSafariActivity"
   s.screenshots  = "http://f.cl.ly/items/3e3W360A0f0v0Z392u0W/iOS%20Simulator%20Screen%20Shot%20Oct%204,%202014,%2011.54.20%20AM.png"
