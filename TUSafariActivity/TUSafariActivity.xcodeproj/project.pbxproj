@@ -1,0 +1,424 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9007AC6D1BB12BB1003EB377 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9007ACA81BB12BD6003EB377 /* TUSafariActivity.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC851BB12BD6003EB377 /* TUSafariActivity.strings */; };
+		9007ACA91BB12BD6003EB377 /* safari-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC951BB12BD6003EB377 /* safari-7.png */; };
+		9007ACAA1BB12BD6003EB377 /* safari-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC961BB12BD6003EB377 /* safari-7@2x.png */; };
+		9007ACAB1BB12BD6003EB377 /* safari-7@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC971BB12BD6003EB377 /* safari-7@3x.png */; };
+		9007ACAC1BB12BD6003EB377 /* safari-7~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC981BB12BD6003EB377 /* safari-7~iPad.png */; };
+		9007ACAD1BB12BD6003EB377 /* safari-7~iPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC991BB12BD6003EB377 /* safari-7~iPad@2x.png */; };
+		9007ACAE1BB12BD6003EB377 /* safari.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9A1BB12BD6003EB377 /* safari.png */; };
+		9007ACAF1BB12BD6003EB377 /* safari@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9B1BB12BD6003EB377 /* safari@2x.png */; };
+		9007ACB01BB12BD6003EB377 /* safari@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9C1BB12BD6003EB377 /* safari@3x.png */; };
+		9007ACB11BB12BD6003EB377 /* safari~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9D1BB12BD6003EB377 /* safari~iPad.png */; };
+		9007ACB21BB12BD6003EB377 /* safari~iPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9E1BB12BD6003EB377 /* safari~iPad@2x.png */; };
+		9007ACB41BB12BD6003EB377 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 9007ACA51BB12BD6003EB377 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9007ACB51BB12BD6003EB377 /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 9007ACA61BB12BD6003EB377 /* TUSafariActivity.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9007AC671BB12BB1003EB377 /* TUSafariActivity.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TUSafariActivity.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9007AC6B1BB12BB1003EB377 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TUSafariActivity.h; sourceTree = "<group>"; };
+		9007AC861BB12BD6003EB377 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC871BB12BD6003EB377 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC881BB12BD6003EB377 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC891BB12BD6003EB377 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC8A1BB12BD6003EB377 /* eu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = eu; path = eu.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC8B1BB12BD6003EB377 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC8C1BB12BD6003EB377 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC8D1BB12BD6003EB377 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC8E1BB12BD6003EB377 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC8F1BB12BD6003EB377 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC901BB12BD6003EB377 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC911BB12BD6003EB377 /* no */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = no; path = no.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC921BB12BD6003EB377 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC931BB12BD6003EB377 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC941BB12BD6003EB377 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007AC951BB12BD6003EB377 /* safari-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7.png"; sourceTree = "<group>"; };
+		9007AC961BB12BD6003EB377 /* safari-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7@2x.png"; sourceTree = "<group>"; };
+		9007AC971BB12BD6003EB377 /* safari-7@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7@3x.png"; sourceTree = "<group>"; };
+		9007AC981BB12BD6003EB377 /* safari-7~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7~iPad.png"; sourceTree = "<group>"; };
+		9007AC991BB12BD6003EB377 /* safari-7~iPad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7~iPad@2x.png"; sourceTree = "<group>"; };
+		9007AC9A1BB12BD6003EB377 /* safari.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = safari.png; sourceTree = "<group>"; };
+		9007AC9B1BB12BD6003EB377 /* safari@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari@2x.png"; sourceTree = "<group>"; };
+		9007AC9C1BB12BD6003EB377 /* safari@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari@3x.png"; sourceTree = "<group>"; };
+		9007AC9D1BB12BD6003EB377 /* safari~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari~iPad.png"; sourceTree = "<group>"; };
+		9007AC9E1BB12BD6003EB377 /* safari~iPad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari~iPad@2x.png"; sourceTree = "<group>"; };
+		9007AC9F1BB12BD6003EB377 /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007ACA01BB12BD6003EB377 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007ACA11BB12BD6003EB377 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007ACA21BB12BD6003EB377 /* zh_CN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = zh_CN; path = zh_CN.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
+		9007ACA51BB12BD6003EB377 /* TUSafariActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TUSafariActivity.h; sourceTree = "<group>"; };
+		9007ACA61BB12BD6003EB377 /* TUSafariActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TUSafariActivity.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9007AC631BB12BB1003EB377 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9007AC5D1BB12BB1003EB377 = {
+			isa = PBXGroup;
+			children = (
+				9007AC691BB12BB1003EB377 /* TUSafariActivity */,
+				9007AC681BB12BB1003EB377 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9007AC681BB12BB1003EB377 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9007AC671BB12BB1003EB377 /* TUSafariActivity.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9007AC691BB12BB1003EB377 /* TUSafariActivity */ = {
+			isa = PBXGroup;
+			children = (
+				9007AC831BB12BD6003EB377 /* Assets */,
+				9007ACA31BB12BD6003EB377 /* Classes */,
+				9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */,
+				9007AC6A1BB12BB1003EB377 /* Supporting Files */,
+			);
+			path = TUSafariActivity;
+			sourceTree = "<group>";
+		};
+		9007AC6A1BB12BB1003EB377 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9007AC6B1BB12BB1003EB377 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9007AC831BB12BD6003EB377 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				9007AC851BB12BD6003EB377 /* TUSafariActivity.strings */,
+				9007AC951BB12BD6003EB377 /* safari-7.png */,
+				9007AC961BB12BD6003EB377 /* safari-7@2x.png */,
+				9007AC971BB12BD6003EB377 /* safari-7@3x.png */,
+				9007AC981BB12BD6003EB377 /* safari-7~iPad.png */,
+				9007AC991BB12BD6003EB377 /* safari-7~iPad@2x.png */,
+				9007AC9A1BB12BD6003EB377 /* safari.png */,
+				9007AC9B1BB12BD6003EB377 /* safari@2x.png */,
+				9007AC9C1BB12BD6003EB377 /* safari@3x.png */,
+				9007AC9D1BB12BD6003EB377 /* safari~iPad.png */,
+				9007AC9E1BB12BD6003EB377 /* safari~iPad@2x.png */,
+			);
+			name = Assets;
+			path = ../../Pod/Assets;
+			sourceTree = "<group>";
+		};
+		9007ACA31BB12BD6003EB377 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				9007ACA51BB12BD6003EB377 /* TUSafariActivity.h */,
+				9007ACA61BB12BD6003EB377 /* TUSafariActivity.m */,
+			);
+			name = Classes;
+			path = ../../Pod/Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		9007AC641BB12BB1003EB377 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9007ACB41BB12BD6003EB377 /* TUSafariActivity.h in Headers */,
+				9007AC6D1BB12BB1003EB377 /* TUSafariActivity.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		9007AC661BB12BB1003EB377 /* TUSafariActivity */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9007AC7D1BB12BB1003EB377 /* Build configuration list for PBXNativeTarget "TUSafariActivity" */;
+			buildPhases = (
+				9007AC621BB12BB1003EB377 /* Sources */,
+				9007AC631BB12BB1003EB377 /* Frameworks */,
+				9007AC641BB12BB1003EB377 /* Headers */,
+				9007AC651BB12BB1003EB377 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TUSafariActivity;
+			productName = TUSafariActivity;
+			productReference = 9007AC671BB12BB1003EB377 /* TUSafariActivity.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9007AC5E1BB12BB1003EB377 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = molabo;
+				TargetAttributes = {
+					9007AC661BB12BB1003EB377 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = 9007AC611BB12BB1003EB377 /* Build configuration list for PBXProject "TUSafariActivity" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				cs,
+				de,
+				es,
+				eu,
+				fi,
+				fr,
+				it,
+				ja,
+				ko,
+				nl,
+				no,
+				pl,
+				pt,
+				ru,
+				sk,
+				sv,
+				vi,
+				zh_CN,
+			);
+			mainGroup = 9007AC5D1BB12BB1003EB377;
+			productRefGroup = 9007AC681BB12BB1003EB377 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9007AC661BB12BB1003EB377 /* TUSafariActivity */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9007AC651BB12BB1003EB377 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9007ACAC1BB12BD6003EB377 /* safari-7~iPad.png in Resources */,
+				9007ACB21BB12BD6003EB377 /* safari~iPad@2x.png in Resources */,
+				9007ACA81BB12BD6003EB377 /* TUSafariActivity.strings in Resources */,
+				9007ACAB1BB12BD6003EB377 /* safari-7@3x.png in Resources */,
+				9007ACAE1BB12BD6003EB377 /* safari.png in Resources */,
+				9007ACAF1BB12BD6003EB377 /* safari@2x.png in Resources */,
+				9007ACA91BB12BD6003EB377 /* safari-7.png in Resources */,
+				9007ACAA1BB12BD6003EB377 /* safari-7@2x.png in Resources */,
+				9007ACB11BB12BD6003EB377 /* safari~iPad.png in Resources */,
+				9007ACB01BB12BD6003EB377 /* safari@3x.png in Resources */,
+				9007ACAD1BB12BD6003EB377 /* safari-7~iPad@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9007AC621BB12BB1003EB377 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9007ACB51BB12BD6003EB377 /* TUSafariActivity.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		9007AC851BB12BD6003EB377 /* TUSafariActivity.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9007AC861BB12BD6003EB377 /* cs */,
+				9007AC871BB12BD6003EB377 /* de */,
+				9007AC881BB12BD6003EB377 /* en */,
+				9007AC891BB12BD6003EB377 /* es */,
+				9007AC8A1BB12BD6003EB377 /* eu */,
+				9007AC8B1BB12BD6003EB377 /* fi */,
+				9007AC8C1BB12BD6003EB377 /* fr */,
+				9007AC8D1BB12BD6003EB377 /* it */,
+				9007AC8E1BB12BD6003EB377 /* ja */,
+				9007AC8F1BB12BD6003EB377 /* ko */,
+				9007AC901BB12BD6003EB377 /* nl */,
+				9007AC911BB12BD6003EB377 /* no */,
+				9007AC921BB12BD6003EB377 /* pl */,
+				9007AC931BB12BD6003EB377 /* pt */,
+				9007AC941BB12BD6003EB377 /* ru */,
+				9007AC9F1BB12BD6003EB377 /* sk */,
+				9007ACA01BB12BD6003EB377 /* sv */,
+				9007ACA11BB12BD6003EB377 /* vi */,
+				9007ACA21BB12BD6003EB377 /* zh_CN */,
+			);
+			name = TUSafariActivity.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9007AC7B1BB12BB1003EB377 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		9007AC7C1BB12BB1003EB377 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		9007AC7E1BB12BB1003EB377 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = TUSafariActivity/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		9007AC7F1BB12BB1003EB377 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = TUSafariActivity/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9007AC611BB12BB1003EB377 /* Build configuration list for PBXProject "TUSafariActivity" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9007AC7B1BB12BB1003EB377 /* Debug */,
+				9007AC7C1BB12BB1003EB377 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9007AC7D1BB12BB1003EB377 /* Build configuration list for PBXNativeTarget "TUSafariActivity" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9007AC7E1BB12BB1003EB377 /* Debug */,
+				9007AC7F1BB12BB1003EB377 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9007AC5E1BB12BB1003EB377 /* Project object */;
+}
