@@ -8,18 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		9007AC6D1BB12BB1003EB377 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9007ACB41BB12BD6003EB377 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 9007ACA51BB12BD6003EB377 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9007ACB51BB12BD6003EB377 /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 9007ACA61BB12BD6003EB377 /* TUSafariActivity.m */; };
-		9007ACE81BB12F99003EB377 /* TUSafariActivity.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9007ACE71BB12F99003EB377 /* TUSafariActivity.bundle */; };
+		90C392781BB1340A00D59B76 /* TUSafariActivity.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 90C392771BB1340A00D59B76 /* TUSafariActivity.bundle */; };
+		90C3927B1BB1341700D59B76 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 90C392791BB1341700D59B76 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		90C3927C1BB1341700D59B76 /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 90C3927A1BB1341700D59B76 /* TUSafariActivity.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9007AC671BB12BB1003EB377 /* TUSafariActivity.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TUSafariActivity.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9007AC6B1BB12BB1003EB377 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TUSafariActivity.h; sourceTree = "<group>"; };
-		9007ACA51BB12BD6003EB377 /* TUSafariActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TUSafariActivity.h; sourceTree = "<group>"; };
-		9007ACA61BB12BD6003EB377 /* TUSafariActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TUSafariActivity.m; sourceTree = "<group>"; };
-		9007ACE71BB12F99003EB377 /* TUSafariActivity.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = TUSafariActivity.bundle; sourceTree = "<group>"; };
+		90C392771BB1340A00D59B76 /* TUSafariActivity.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TUSafariActivity.bundle; path = Pod/Assets/TUSafariActivity.bundle; sourceTree = SOURCE_ROOT; };
+		90C392791BB1341700D59B76 /* TUSafariActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TUSafariActivity.h; path = Pod/Classes/TUSafariActivity.h; sourceTree = SOURCE_ROOT; };
+		90C3927A1BB1341700D59B76 /* TUSafariActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TUSafariActivity.m; path = Pod/Classes/TUSafariActivity.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +71,7 @@
 		9007AC831BB12BD6003EB377 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				9007ACE71BB12F99003EB377 /* TUSafariActivity.bundle */,
+				90C392771BB1340A00D59B76 /* TUSafariActivity.bundle */,
 			);
 			name = Assets;
 			path = ../../Pod/Assets;
@@ -80,8 +80,8 @@
 		9007ACA31BB12BD6003EB377 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				9007ACA51BB12BD6003EB377 /* TUSafariActivity.h */,
-				9007ACA61BB12BD6003EB377 /* TUSafariActivity.m */,
+				90C392791BB1341700D59B76 /* TUSafariActivity.h */,
+				90C3927A1BB1341700D59B76 /* TUSafariActivity.m */,
 			);
 			name = Classes;
 			path = ../../Pod/Classes;
@@ -94,7 +94,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9007ACB41BB12BD6003EB377 /* TUSafariActivity.h in Headers */,
+				90C3927B1BB1341700D59B76 /* TUSafariActivity.h in Headers */,
 				9007AC6D1BB12BB1003EB377 /* TUSafariActivity.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -174,7 +174,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9007ACE81BB12F99003EB377 /* TUSafariActivity.bundle in Resources */,
+				90C392781BB1340A00D59B76 /* TUSafariActivity.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,7 +185,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9007ACB51BB12BD6003EB377 /* TUSafariActivity.m in Sources */,
+				90C3927C1BB1341700D59B76 /* TUSafariActivity.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -330,6 +330,7 @@
 				9007AC7F1BB12BB1003EB377 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
