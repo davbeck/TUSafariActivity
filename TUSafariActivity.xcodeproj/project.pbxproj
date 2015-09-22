@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9007AC6D1BB12BB1003EB377 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		90C392781BB1340A00D59B76 /* TUSafariActivity.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 90C392771BB1340A00D59B76 /* TUSafariActivity.bundle */; };
 		90C3927B1BB1341700D59B76 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 90C392791BB1341700D59B76 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		90C3927C1BB1341700D59B76 /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 90C3927A1BB1341700D59B76 /* TUSafariActivity.m */; };
@@ -16,7 +15,6 @@
 /* Begin PBXFileReference section */
 		9007AC671BB12BB1003EB377 /* TUSafariActivity.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TUSafariActivity.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9007AC6B1BB12BB1003EB377 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TUSafariActivity.h; sourceTree = "<group>"; };
 		90C392771BB1340A00D59B76 /* TUSafariActivity.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TUSafariActivity.bundle; path = Pod/Assets/TUSafariActivity.bundle; sourceTree = SOURCE_ROOT; };
 		90C392791BB1341700D59B76 /* TUSafariActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TUSafariActivity.h; path = Pod/Classes/TUSafariActivity.h; sourceTree = SOURCE_ROOT; };
 		90C3927A1BB1341700D59B76 /* TUSafariActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TUSafariActivity.m; path = Pod/Classes/TUSafariActivity.m; sourceTree = SOURCE_ROOT; };
@@ -54,7 +52,6 @@
 			children = (
 				9007AC831BB12BD6003EB377 /* Assets */,
 				9007ACA31BB12BD6003EB377 /* Classes */,
-				9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */,
 				9007AC6A1BB12BB1003EB377 /* Supporting Files */,
 			);
 			path = TUSafariActivity;
@@ -95,7 +92,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				90C3927B1BB1341700D59B76 /* TUSafariActivity.h in Headers */,
-				9007AC6D1BB12BB1003EB377 /* TUSafariActivity.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
