@@ -8,56 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		9007AC6D1BB12BB1003EB377 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9007ACA81BB12BD6003EB377 /* TUSafariActivity.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC851BB12BD6003EB377 /* TUSafariActivity.strings */; };
-		9007ACA91BB12BD6003EB377 /* safari-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC951BB12BD6003EB377 /* safari-7.png */; };
-		9007ACAA1BB12BD6003EB377 /* safari-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC961BB12BD6003EB377 /* safari-7@2x.png */; };
-		9007ACAB1BB12BD6003EB377 /* safari-7@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC971BB12BD6003EB377 /* safari-7@3x.png */; };
-		9007ACAC1BB12BD6003EB377 /* safari-7~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC981BB12BD6003EB377 /* safari-7~iPad.png */; };
-		9007ACAD1BB12BD6003EB377 /* safari-7~iPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC991BB12BD6003EB377 /* safari-7~iPad@2x.png */; };
-		9007ACAE1BB12BD6003EB377 /* safari.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9A1BB12BD6003EB377 /* safari.png */; };
-		9007ACAF1BB12BD6003EB377 /* safari@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9B1BB12BD6003EB377 /* safari@2x.png */; };
-		9007ACB01BB12BD6003EB377 /* safari@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9C1BB12BD6003EB377 /* safari@3x.png */; };
-		9007ACB11BB12BD6003EB377 /* safari~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9D1BB12BD6003EB377 /* safari~iPad.png */; };
-		9007ACB21BB12BD6003EB377 /* safari~iPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9007AC9E1BB12BD6003EB377 /* safari~iPad@2x.png */; };
 		9007ACB41BB12BD6003EB377 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 9007ACA51BB12BD6003EB377 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9007ACB51BB12BD6003EB377 /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 9007ACA61BB12BD6003EB377 /* TUSafariActivity.m */; };
+		9007ACE81BB12F99003EB377 /* TUSafariActivity.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9007ACE71BB12F99003EB377 /* TUSafariActivity.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9007AC671BB12BB1003EB377 /* TUSafariActivity.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TUSafariActivity.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9007AC6B1BB12BB1003EB377 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9007AC6C1BB12BB1003EB377 /* TUSafariActivity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TUSafariActivity.h; sourceTree = "<group>"; };
-		9007AC861BB12BD6003EB377 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC871BB12BD6003EB377 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC881BB12BD6003EB377 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC891BB12BD6003EB377 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC8A1BB12BD6003EB377 /* eu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = eu; path = eu.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC8B1BB12BD6003EB377 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC8C1BB12BD6003EB377 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC8D1BB12BD6003EB377 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC8E1BB12BD6003EB377 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC8F1BB12BD6003EB377 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC901BB12BD6003EB377 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC911BB12BD6003EB377 /* no */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = no; path = no.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC921BB12BD6003EB377 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC931BB12BD6003EB377 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC941BB12BD6003EB377 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007AC951BB12BD6003EB377 /* safari-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7.png"; sourceTree = "<group>"; };
-		9007AC961BB12BD6003EB377 /* safari-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7@2x.png"; sourceTree = "<group>"; };
-		9007AC971BB12BD6003EB377 /* safari-7@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7@3x.png"; sourceTree = "<group>"; };
-		9007AC981BB12BD6003EB377 /* safari-7~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7~iPad.png"; sourceTree = "<group>"; };
-		9007AC991BB12BD6003EB377 /* safari-7~iPad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari-7~iPad@2x.png"; sourceTree = "<group>"; };
-		9007AC9A1BB12BD6003EB377 /* safari.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = safari.png; sourceTree = "<group>"; };
-		9007AC9B1BB12BD6003EB377 /* safari@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari@2x.png"; sourceTree = "<group>"; };
-		9007AC9C1BB12BD6003EB377 /* safari@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari@3x.png"; sourceTree = "<group>"; };
-		9007AC9D1BB12BD6003EB377 /* safari~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari~iPad.png"; sourceTree = "<group>"; };
-		9007AC9E1BB12BD6003EB377 /* safari~iPad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "safari~iPad@2x.png"; sourceTree = "<group>"; };
-		9007AC9F1BB12BD6003EB377 /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007ACA01BB12BD6003EB377 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007ACA11BB12BD6003EB377 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
-		9007ACA21BB12BD6003EB377 /* zh_CN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = zh_CN; path = zh_CN.lproj/TUSafariActivity.strings; sourceTree = "<group>"; };
 		9007ACA51BB12BD6003EB377 /* TUSafariActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TUSafariActivity.h; sourceTree = "<group>"; };
 		9007ACA61BB12BD6003EB377 /* TUSafariActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TUSafariActivity.m; sourceTree = "<group>"; };
+		9007ACE71BB12F99003EB377 /* TUSafariActivity.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = TUSafariActivity.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,17 +71,7 @@
 		9007AC831BB12BD6003EB377 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				9007AC851BB12BD6003EB377 /* TUSafariActivity.strings */,
-				9007AC951BB12BD6003EB377 /* safari-7.png */,
-				9007AC961BB12BD6003EB377 /* safari-7@2x.png */,
-				9007AC971BB12BD6003EB377 /* safari-7@3x.png */,
-				9007AC981BB12BD6003EB377 /* safari-7~iPad.png */,
-				9007AC991BB12BD6003EB377 /* safari-7~iPad@2x.png */,
-				9007AC9A1BB12BD6003EB377 /* safari.png */,
-				9007AC9B1BB12BD6003EB377 /* safari@2x.png */,
-				9007AC9C1BB12BD6003EB377 /* safari@3x.png */,
-				9007AC9D1BB12BD6003EB377 /* safari~iPad.png */,
-				9007AC9E1BB12BD6003EB377 /* safari~iPad@2x.png */,
+				9007ACE71BB12F99003EB377 /* TUSafariActivity.bundle */,
 			);
 			name = Assets;
 			path = ../../Pod/Assets;
@@ -222,17 +174,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9007ACAC1BB12BD6003EB377 /* safari-7~iPad.png in Resources */,
-				9007ACB21BB12BD6003EB377 /* safari~iPad@2x.png in Resources */,
-				9007ACA81BB12BD6003EB377 /* TUSafariActivity.strings in Resources */,
-				9007ACAB1BB12BD6003EB377 /* safari-7@3x.png in Resources */,
-				9007ACAE1BB12BD6003EB377 /* safari.png in Resources */,
-				9007ACAF1BB12BD6003EB377 /* safari@2x.png in Resources */,
-				9007ACA91BB12BD6003EB377 /* safari-7.png in Resources */,
-				9007ACAA1BB12BD6003EB377 /* safari-7@2x.png in Resources */,
-				9007ACB11BB12BD6003EB377 /* safari~iPad.png in Resources */,
-				9007ACB01BB12BD6003EB377 /* safari@3x.png in Resources */,
-				9007ACAD1BB12BD6003EB377 /* safari-7~iPad@2x.png in Resources */,
+				9007ACE81BB12F99003EB377 /* TUSafariActivity.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,35 +190,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		9007AC851BB12BD6003EB377 /* TUSafariActivity.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				9007AC861BB12BD6003EB377 /* cs */,
-				9007AC871BB12BD6003EB377 /* de */,
-				9007AC881BB12BD6003EB377 /* en */,
-				9007AC891BB12BD6003EB377 /* es */,
-				9007AC8A1BB12BD6003EB377 /* eu */,
-				9007AC8B1BB12BD6003EB377 /* fi */,
-				9007AC8C1BB12BD6003EB377 /* fr */,
-				9007AC8D1BB12BD6003EB377 /* it */,
-				9007AC8E1BB12BD6003EB377 /* ja */,
-				9007AC8F1BB12BD6003EB377 /* ko */,
-				9007AC901BB12BD6003EB377 /* nl */,
-				9007AC911BB12BD6003EB377 /* no */,
-				9007AC921BB12BD6003EB377 /* pl */,
-				9007AC931BB12BD6003EB377 /* pt */,
-				9007AC941BB12BD6003EB377 /* ru */,
-				9007AC9F1BB12BD6003EB377 /* sk */,
-				9007ACA01BB12BD6003EB377 /* sv */,
-				9007ACA11BB12BD6003EB377 /* vi */,
-				9007ACA21BB12BD6003EB377 /* zh_CN */,
-			);
-			name = TUSafariActivity.strings;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		9007AC7B1BB12BB1003EB377 /* Debug */ = {
