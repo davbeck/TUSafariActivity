@@ -18,3 +18,4 @@ InfoPlist.h
 *~.nib
 *.swp
 profile
+Carthage/
