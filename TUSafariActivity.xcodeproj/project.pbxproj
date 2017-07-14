@@ -19,7 +19,7 @@
 		73227AD81F18942D00EB0565 /* safari@2x~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC31F18942D00EB0565 /* safari@2x~iPad.png */; };
 		73227AD91F18942D00EB0565 /* safari@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC41F18942D00EB0565 /* safari@3x.png */; };
 		73227ADA1F18942D00EB0565 /* safari~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 73227AC51F18942D00EB0565 /* safari~iPad.png */; };
-		73227ADC1F18942D00EB0565 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 73227ACD1F18942D00EB0565 /* TUSafariActivity.h */; };
+		73227ADC1F18942D00EB0565 /* TUSafariActivity.h in Headers */ = {isa = PBXBuildFile; fileRef = 73227ACD1F18942D00EB0565 /* TUSafariActivity.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73227ADD1F18942D00EB0565 /* TUSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 73227ACE1F18942D00EB0565 /* TUSafariActivity.m */; };
 /* End PBXBuildFile section */
 
