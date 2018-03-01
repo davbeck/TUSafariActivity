@@ -81,9 +81,14 @@
 
 - (void)performActivity
 {
-	BOOL completed = [[UIApplication sharedApplication] openURL:_URL];
-	
-	[self activityDidFinish:completed];
+#if __IPHONE_OS_VERSION_MIN_REQUIRED >= __IPHONE_10_0
+    [[UIApplication sharedApplication] openURL:_URL options:@{} completionHandler:^(BOOL success) {
+        [self activityDidFinish:YES];
+    }];
+#else
+    BOOL completed = [[UIApplication sharedApplication] openURL:_URL];
+    [self activityDidFinish:completed];
+#endif
 }
 
 @end
