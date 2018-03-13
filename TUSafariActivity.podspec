@@ -11,7 +11,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/davbeck/TUSafariActivity.git", :tag => s.version.to_s }
   s.requires_arc = true
   s.source_files = 'Pod/Classes'
-  s.resource_bundles = {
-    'TUSafariActivity' => ['Pod/Assets/*']
-  }
+  s.resources = 'Pod/Assets/*'
 end
