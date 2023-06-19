@@ -1,12 +1,12 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
-platform :ios, '8.0'
+platform :ios, '15.0'
 inhibit_all_warnings!
 
-target 'TUSafariActivity', :exclusive => true do
+target 'TUSafariActivity' do
   pod "TUSafariActivity", :path => "../"
 end
 
-target 'Tests', :exclusive => true do
+target 'Tests' do
   pod "TUSafariActivity", :path => "../"
 end
