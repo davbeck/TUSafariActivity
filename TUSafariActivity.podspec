@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/davbeck'
   s.license      = 'BSD'
   s.author       = { "David Beck" => "code@thinkultimate.com" }
-  s.platform     = :ios, '6.0'
+  s.platform     = :ios, '15.0'
   s.source       = { :git => "https://github.com/davbeck/TUSafariActivity.git", :tag => s.version.to_s }
   s.requires_arc = true
   s.source_files = 'Pod/Classes'
