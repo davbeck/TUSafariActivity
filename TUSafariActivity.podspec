@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.source_files = 'Pod/Classes'
   s.resource_bundles = {
-    'TUSafariActivity' => ['Pod/Assets/*']
+    'TUSafariActivity' => ['Sources/Icon.xcassets' 'Sources/Resources/*']
   }
 end
