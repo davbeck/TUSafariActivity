@@ -2,7 +2,7 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Open in Safari" : {
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "ca" : {
           "stringUnit" : {
