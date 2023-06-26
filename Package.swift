@@ -5,7 +5,7 @@ let package = Package(
     name: "TUSafariActivity",
     defaultLocalization: "en",
     platforms: [
-        .iOS(.v15)
+        .iOS(.v12)
     ],
     products: [
         .library(name: "TUSafariActivity", targets: ["TUSafariActivity"]),
@@ -13,8 +13,7 @@ let package = Package(
     targets: [
         .target(
             name: "TUSafariActivity",
-            path: "Sources",
-            publicHeadersPath: "Classes"
+            path: "Sources"
         )
     ]
 )

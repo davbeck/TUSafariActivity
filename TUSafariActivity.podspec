@@ -10,7 +10,8 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '15.0'
   s.source       = { :git => "https://github.com/davbeck/TUSafariActivity.git", :tag => s.version.to_s }
   s.requires_arc = true
-  s.source_files = 'Pod/Classes'
+  s.source_files = 'Sources/*'
+  s.exclude_files = [ 'Sources/Resources/*', 'Sources/TUSafariActivity-Images.xcassets', 'Sources/include/*' ]
   s.resource_bundles = {
     'TUSafariActivity' => ['Sources/Icon.xcassets' 'Sources/Resources/*']
   }
