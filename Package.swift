@@ -13,7 +13,11 @@ let package = Package(
     targets: [
         .target(
             name: "TUSafariActivity",
-            path: "Sources"
+            path: "Sources",
+            resources: [
+                .process("TUSafariActivity-Images.xcassets"),
+                .process("Resources/TUSafariActivity.xcstrings")
+            ]
         )
     ]
 )
