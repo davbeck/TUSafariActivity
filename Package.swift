@@ -15,7 +15,6 @@ let package = Package(
             name: "TUSafariActivity",
             path: "Sources",
             resources: [
-                .process("Assets/TUSafariActivity-Images.xcassets"),
                 .process("Resources")
             ]
         )

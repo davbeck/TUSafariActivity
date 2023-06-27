@@ -47,12 +47,10 @@
 
 - (UIImage *)activityImage
 {
-    NSBundle *bundle = [NSBundle bundleForClass:[self class]];
     if ([UIImage respondsToSelector:@selector(imageNamed:inBundle:compatibleWithTraitCollection:)]) {
-        return [UIImage imageNamed:@"safari" inBundle:bundle compatibleWithTraitCollection:nil];
+        return [UIImage imageNamed:@"safari" inBundle:[NSBundle bundleForClass:self.class] compatibleWithTraitCollection:nil];
     } else {
-        // because pre iOS 8 doesn't allow embeded frameworks, our bundle will always be the main bundle
-        return [UIImage imageNamed:@"safari-7" inBundle:bundle compatibleWithTraitCollection:nil];
+        return [UIImage imageNamed:@"safari-7" inBundle:[NSBundle bundleForClass:self.class] compatibleWithTraitCollection:nil];
     }
 }
 
