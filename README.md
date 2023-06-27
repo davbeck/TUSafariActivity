@@ -10,12 +10,21 @@
 
 ## Installation
 
+### Swift Package Manager
+TUSafariActivity is available through [Swift Package Manager](https://www.swift.org/package-manager/). To install
+it, simply add the following line to your `Package.swift`:
+
+```swift
+dependencies: [.package(url: "https://github.com/davbeck/TUSafariActivity.git", from: "1.0.0")]
+```
+
 ### CocoaPods
 
-TUSafariActivity is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-    pod 'TUSafariActivity', '~> 1.0'
+TUSafariActivity is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your `Podfile`:
+```ruby
+pod 'TUSafariActivity', '~> 1.0'
+```
 
 ## Usage
 
