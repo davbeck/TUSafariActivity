@@ -43,9 +43,9 @@ UIActivityViewController *activityViewController = [[UIActivityViewController al
 ### Swift
 
 ```swift
-let URL = NSURL(string: "http://google.com")!
+let url = URL(string: "http://google.com")!
 let activity = TUSafariActivity()
-let activityViewController = UIActivityViewController(activityItems: [URL], applicationActivities: [activity])
+let activityViewController = UIActivityViewController(activityItems: [url], applicationActivities: [activity])
 ```
 
 Note that you can include the activity in any `UIActivityViewController` and it will only be shown to the user if there is a URL in the activity items.
