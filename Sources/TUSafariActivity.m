@@ -35,6 +35,15 @@
 	NSURL *_URL;
 }
 
+- (NSBundle *)_bundle
+{
+#ifdef SWIFTPM_MODULE_BUNDLE
+	return SWIFTPM_MODULE_BUNDLE;
+#else
+	return [NSBundle bundleForClass:self.class];
+#endif
+}
+
 - (NSString *)activityType
 {
 	return NSStringFromClass([self class]);
@@ -42,15 +51,15 @@
 
 - (NSString *)activityTitle
 {
-    return NSLocalizedString(@"Open in Safari", nil);
+	return NSLocalizedStringFromTableInBundle(@"Open in Safari", nil, [self _bundle], nil);
 }
 
 - (UIImage *)activityImage
 {
     if ([UIImage respondsToSelector:@selector(imageNamed:inBundle:compatibleWithTraitCollection:)]) {
-        return [UIImage imageNamed:@"safari" inBundle:[NSBundle bundleForClass:self.class] compatibleWithTraitCollection:nil];
+        return [UIImage imageNamed:@"safari" inBundle:[self _bundle] compatibleWithTraitCollection:nil];
     } else {
-        return [UIImage imageNamed:@"safari-7" inBundle:[NSBundle bundleForClass:self.class] compatibleWithTraitCollection:nil];
+        return [UIImage imageNamed:@"safari-7" inBundle:[self _bundle] compatibleWithTraitCollection:nil];
     }
 }
 
