@@ -11,5 +11,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/davbeck/TUSafariActivity.git", :tag => s.version.to_s }
   s.requires_arc = true
   s.source_files = [ 'Sources/TUSafariActivity.h', 'Sources/TUSafariActivity.m' ]
-  s.resources = 'TUSafariActivity' => ['Sources/Resources/*']
+  s.resource_bundle = {
+    'TUSafariActivity' => ['Sources/Resources/*']
+  }
 end
